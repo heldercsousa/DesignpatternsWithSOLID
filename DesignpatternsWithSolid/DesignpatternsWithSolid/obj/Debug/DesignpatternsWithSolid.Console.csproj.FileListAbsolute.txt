@@ -1,0 +1,7 @@
+C:\Users\heldersousa\source\repos\DesignpatternsWithSolid\DesignpatternsWithSolid\bin\Debug\DesignpatternsWithSolid.exe.config
+C:\Users\heldersousa\source\repos\DesignpatternsWithSolid\DesignpatternsWithSolid\bin\Debug\DesignpatternsWithSolid.exe
+C:\Users\heldersousa\source\repos\DesignpatternsWithSolid\DesignpatternsWithSolid\bin\Debug\DesignpatternsWithSolid.pdb
+C:\Users\heldersousa\source\repos\DesignpatternsWithSolid\DesignpatternsWithSolid\obj\Debug\DesignpatternsWithSolid.Console.csprojAssemblyReference.cache
+C:\Users\heldersousa\source\repos\DesignpatternsWithSolid\DesignpatternsWithSolid\obj\Debug\DesignpatternsWithSolid.Console.csproj.CoreCompileInputs.cache
+C:\Users\heldersousa\source\repos\DesignpatternsWithSolid\DesignpatternsWithSolid\obj\Debug\DesignpatternsWithSolid.exe
+C:\Users\heldersousa\source\repos\DesignpatternsWithSolid\DesignpatternsWithSolid\obj\Debug\DesignpatternsWithSolid.pdb

@@ -1,0 +1,2 @@
+C:\ProgramData\PostSharp\6.2.6\bin.Release\net471\PostSharp.Compiler.Engine.dll
+C:\Users\heldersousa\source\repos\DesignpatternsWithSolid\DesignpatternsWithSolid.Data\obj\Debug\PostSharp\postsharp.config

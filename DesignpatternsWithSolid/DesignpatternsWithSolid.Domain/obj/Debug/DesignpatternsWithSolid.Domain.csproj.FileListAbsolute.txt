@@ -1,0 +1,12 @@
+C:\Users\heldersousa\source\repos\DesignpatternsWithSolid\DesignpatternsWithSolid.Domain\bin\Debug\DesignpatternsWithSolid.Domain.dll
+C:\Users\heldersousa\source\repos\DesignpatternsWithSolid\DesignpatternsWithSolid.Domain\bin\Debug\DesignpatternsWithSolid.Domain.pdb
+C:\Users\heldersousa\source\repos\DesignpatternsWithSolid\DesignpatternsWithSolid.Domain\obj\Debug\DesignpatternsWithSolid.Domain.csprojAssemblyReference.cache
+C:\Users\heldersousa\source\repos\DesignpatternsWithSolid\DesignpatternsWithSolid.Domain\obj\Debug\DesignpatternsWithSolid.Domain.csproj.CoreCompileInputs.cache
+C:\Users\heldersousa\source\repos\DesignpatternsWithSolid\DesignpatternsWithSolid.Domain\obj\Debug\DesignpatternsWithSolid.Domain.dll
+C:\Users\heldersousa\source\repos\DesignpatternsWithSolid\DesignpatternsWithSolid.Domain\obj\Debug\DesignpatternsWithSolid.Domain.pdb
+C:\Users\heldersousa\source\repos\DesignpatternsWithSolid\DesignpatternsWithSolid.Domain\bin\Debug\SampleDB.mdf
+C:\Users\heldersousa\source\repos\DesignpatternsWithSolid\DesignpatternsWithSolid.Domain\bin\Debug\SampleDB_log.ldf
+C:\Users\heldersousa\source\repos\DesignpatternsWithSolid\DesignpatternsWithSolid.Domain\bin\Debug\DesignpatternsWithSolid.Data.dll
+C:\Users\heldersousa\source\repos\DesignpatternsWithSolid\DesignpatternsWithSolid.Domain\bin\Debug\DesignpatternsWithSolid.Data.pdb
+C:\Users\heldersousa\source\repos\DesignpatternsWithSolid\DesignpatternsWithSolid.Domain\bin\Debug\DesignpatternsWithSolid.Data.dll.config
+C:\Users\heldersousa\source\repos\DesignpatternsWithSolid\DesignpatternsWithSolid.Domain\obj\Debug\DesignpatternsWithSolid.Domain.csproj.CopyComplete
