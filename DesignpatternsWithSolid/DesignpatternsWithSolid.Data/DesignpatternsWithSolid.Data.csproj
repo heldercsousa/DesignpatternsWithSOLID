@@ -69,7 +69,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CartaoRecompensaBronze.cs" />
+    <Compile Include="CartaoRecompensaDourado.cs" />
+    <Compile Include="CartaoRecompensaNull.cs" />
+    <Compile Include="CartaoRecompensaPlatinado.cs" />
+    <Compile Include="CartaoRecompensaPrateado.cs" />
     <Compile Include="Conta.cs" />
+    <Compile Include="ContaBronzeada.cs" />
+    <Compile Include="ContaDourada.cs" />
+    <Compile Include="ContaPadrao.cs" />
+    <Compile Include="ContaPlatinada.cs" />
+    <Compile Include="ContaPrateada.cs" />
+    <Compile Include="Contract\ICartaoRecompensa.cs" />
+    <Compile Include="Contract\IContaFactory.cs" />
     <Compile Include="Contract\IContaRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\ContaRepository.cs" />

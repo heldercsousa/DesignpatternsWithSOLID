@@ -37,7 +37,7 @@
         {
             ///AAA - Arrange, Act, Assert
             ///Arrange
-            var contaa = new Conta();
+            var contaa = Conta.CriarConta(Conta.TipoConta.Bronze);
             var fakeRepo = new ContaRepository(contaa); //esse repositório foi montado para servir de repositório falso, equanto o oficial não foi desenvolvido
             var sutt = new ContaService(fakeRepo);
 
@@ -56,7 +56,7 @@
         {
             ///AAA - Arrange, Act, Assert
             ///Arrange
-            var contaa = new Conta();
+            var contaa = Conta.CriarConta(Conta.TipoConta.Bronze);
            // var mockRepository = new Mock<IContaRepository>();
             mockRepository.Setup(r => r.GetByName("ContaComercial")).Returns(contaa);
            // var sut = new ContaService(mockRepository.Object);
